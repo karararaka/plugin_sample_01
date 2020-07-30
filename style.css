@@ -1,0 +1,43 @@
+body {
+    background-color:#FFFFFF;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color:#353535;
+	color: #E0E0E0;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: gray;
+    color: white;
+}
+
+#slideContainer {
+  max-width:300px;
+  margin: 2em auto;
+}
+
+.slider img {
+	width: 300px;
+	height: auto;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : gray;
+    color: white;
+}
